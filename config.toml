@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "zh-Hans"
+title = "EatFog的博客"
+theme = "dream"
+defaultContentLanguage = "zh"
+googleAnalytics = "..."
+
